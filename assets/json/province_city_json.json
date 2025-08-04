@@ -1,0 +1,2670 @@
+[
+  {
+    "distinctId": 1,
+    "name": "北京",
+    "code": "110000",
+    "order": "1;",
+    "cityList": [
+      {
+        "distinctId": 1,
+        "name": "北京",
+        "code": "110000",
+        "order": "1;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:48.511+0000",
+    "updatedAt": "2024-10-17T14:26:48.511+0000"
+  },
+  {
+    "distinctId": 2,
+    "name": "天津",
+    "code": "120000",
+    "order": "2;",
+    "cityList": [
+      {
+        "distinctId": 2,
+        "name": "天津",
+        "code": "120000",
+        "order": "2;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:54.201+0000",
+    "updatedAt": "2024-10-17T14:26:54.201+0000"
+  },
+  {
+    "distinctId": 3,
+    "name": "上海",
+    "code": "310000",
+    "order": "3;",
+    "cityList": [
+      {
+        "distinctId": 3,
+        "name": "上海",
+        "code": "310000",
+        "order": "3;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:54.289+0000",
+    "updatedAt": "2024-10-17T14:26:54.289+0000"
+  },
+  {
+    "distinctId": 4,
+    "name": "重庆",
+    "code": "500000",
+    "order": "4;",
+    "cityList": [
+      {
+        "distinctId": 4,
+        "name": "重庆",
+        "code": "500000",
+        "order": "4;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:54.356+0000",
+    "updatedAt": "2024-10-17T14:26:54.356+0000"
+  },
+  {
+    "distinctId": 5,
+    "name": "河北",
+    "code": "130000",
+    "order": "5;",
+    "cityList": [
+      {
+        "distinctId": 125,
+        "name": "石家庄",
+        "code": "130100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 126,
+        "name": "唐山",
+        "code": "130200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 127,
+        "name": "秦皇岛",
+        "code": "130300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 128,
+        "name": "邯郸",
+        "code": "130400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 129,
+        "name": "邢台",
+        "code": "130500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 130,
+        "name": "保定",
+        "code": "130600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 131,
+        "name": "张家口",
+        "code": "130700",
+        "order": "7;"
+      },
+      {
+        "distinctId": 132,
+        "name": "承德",
+        "code": "130800",
+        "order": "8;"
+      },
+      {
+        "distinctId": 133,
+        "name": "沧州",
+        "code": "130900",
+        "order": "9;"
+      },
+      {
+        "distinctId": 134,
+        "name": "廊坊",
+        "code": "131000",
+        "order": "10;"
+      },
+      {
+        "distinctId": 135,
+        "name": "衡水",
+        "code": "131100",
+        "order": "11;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:54.533+0000",
+    "updatedAt": "2024-10-17T14:26:54.533+0000"
+  },
+  {
+    "distinctId": 6,
+    "name": "山西",
+    "code": "140000",
+    "order": "6;",
+    "cityList": [
+      {
+        "distinctId": 136,
+        "name": "太原",
+        "code": "140100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 137,
+        "name": "大同",
+        "code": "140200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 138,
+        "name": "阳泉",
+        "code": "140300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 139,
+        "name": "长治",
+        "code": "140400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 140,
+        "name": "晋城",
+        "code": "140500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 141,
+        "name": "朔州",
+        "code": "140600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 142,
+        "name": "晋中",
+        "code": "140700",
+        "order": "7;"
+      },
+      {
+        "distinctId": 143,
+        "name": "运城",
+        "code": "140800",
+        "order": "8;"
+      },
+      {
+        "distinctId": 144,
+        "name": "忻州",
+        "code": "140900",
+        "order": "9;"
+      },
+      {
+        "distinctId": 145,
+        "name": "临汾",
+        "code": "141000",
+        "order": "10;"
+      },
+      {
+        "distinctId": 146,
+        "name": "吕梁",
+        "code": "141100",
+        "order": "11;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:54.718+0000",
+    "updatedAt": "2024-10-17T14:26:54.718+0000"
+  },
+  {
+    "distinctId": 7,
+    "name": "内蒙古",
+    "code": "150000",
+    "order": "7;",
+    "cityList": [
+      {
+        "distinctId": 147,
+        "name": "呼和浩特",
+        "code": "150100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 148,
+        "name": "包头",
+        "code": "150200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 149,
+        "name": "乌海",
+        "code": "150300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 150,
+        "name": "赤峰",
+        "code": "150400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 151,
+        "name": "通辽",
+        "code": "150500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 152,
+        "name": "鄂尔多斯",
+        "code": "150600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 153,
+        "name": "呼伦贝尔",
+        "code": "150700",
+        "order": "7;"
+      },
+      {
+        "distinctId": 154,
+        "name": "巴彦淖尔",
+        "code": "150800",
+        "order": "8;"
+      },
+      {
+        "distinctId": 155,
+        "name": "乌兰察布",
+        "code": "150900",
+        "order": "9;"
+      },
+      {
+        "distinctId": 156,
+        "name": "兴安",
+        "code": "152200",
+        "order": "10;"
+      },
+      {
+        "distinctId": 157,
+        "name": "锡林郭勒",
+        "code": "152500",
+        "order": "11;"
+      },
+      {
+        "distinctId": 158,
+        "name": "阿拉善",
+        "code": "152900",
+        "order": "12;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:54.883+0000",
+    "updatedAt": "2024-10-17T14:26:54.883+0000"
+  },
+  {
+    "distinctId": 8,
+    "name": "辽宁",
+    "code": "210000",
+    "order": "8;",
+    "cityList": [
+      {
+        "distinctId": 172,
+        "name": "葫芦岛",
+        "code": "211400",
+        "order": "14;"
+      },
+      {
+        "distinctId": 159,
+        "name": "沈阳",
+        "code": "210100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 160,
+        "name": "大连",
+        "code": "210200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 161,
+        "name": "鞍山",
+        "code": "210300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 162,
+        "name": "抚顺",
+        "code": "210400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 163,
+        "name": "本溪",
+        "code": "210500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 164,
+        "name": "丹东",
+        "code": "210600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 165,
+        "name": "锦州",
+        "code": "210700",
+        "order": "7;"
+      },
+      {
+        "distinctId": 166,
+        "name": "营口",
+        "code": "210800",
+        "order": "8;"
+      },
+      {
+        "distinctId": 167,
+        "name": "阜新",
+        "code": "210900",
+        "order": "9;"
+      },
+      {
+        "distinctId": 168,
+        "name": "辽阳",
+        "code": "211000",
+        "order": "10;"
+      },
+      {
+        "distinctId": 169,
+        "name": "盘锦",
+        "code": "211100",
+        "order": "11;"
+      },
+      {
+        "distinctId": 170,
+        "name": "铁岭",
+        "code": "211200",
+        "order": "12;"
+      },
+      {
+        "distinctId": 171,
+        "name": "朝阳",
+        "code": "211300",
+        "order": "13;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:55.055+0000",
+    "updatedAt": "2024-10-17T14:26:55.055+0000"
+  },
+  {
+    "distinctId": 9,
+    "name": "吉林",
+    "code": "220000",
+    "order": "9;",
+    "cityList": [
+      {
+        "distinctId": 173,
+        "name": "长春",
+        "code": "220100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 174,
+        "name": "吉林",
+        "code": "220200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 175,
+        "name": "四平",
+        "code": "220300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 176,
+        "name": "辽源",
+        "code": "220400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 177,
+        "name": "通化",
+        "code": "220500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 178,
+        "name": "白山",
+        "code": "220600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 179,
+        "name": "松原",
+        "code": "220700",
+        "order": "7;"
+      },
+      {
+        "distinctId": 180,
+        "name": "白城",
+        "code": "220800",
+        "order": "8;"
+      },
+      {
+        "distinctId": 181,
+        "name": "延边",
+        "code": "222400",
+        "order": "9;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:55.222+0000",
+    "updatedAt": "2024-10-17T14:26:55.222+0000"
+  },
+  {
+    "distinctId": 10,
+    "name": "黑龙江",
+    "code": "230000",
+    "order": "10;",
+    "cityList": [
+      {
+        "distinctId": 182,
+        "name": "哈尔滨",
+        "code": "230100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 183,
+        "name": "齐齐哈尔",
+        "code": "230200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 184,
+        "name": "鸡西",
+        "code": "230300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 185,
+        "name": "鹤岗",
+        "code": "230400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 186,
+        "name": "双鸭山",
+        "code": "230500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 187,
+        "name": "大庆",
+        "code": "230600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 188,
+        "name": "伊春",
+        "code": "230700",
+        "order": "7;"
+      },
+      {
+        "distinctId": 189,
+        "name": "佳木斯",
+        "code": "230800",
+        "order": "8;"
+      },
+      {
+        "distinctId": 190,
+        "name": "七台河",
+        "code": "230900",
+        "order": "9;"
+      },
+      {
+        "distinctId": 191,
+        "name": "牡丹江",
+        "code": "231000",
+        "order": "10;"
+      },
+      {
+        "distinctId": 192,
+        "name": "黑河",
+        "code": "231100",
+        "order": "11;"
+      },
+      {
+        "distinctId": 193,
+        "name": "绥化",
+        "code": "231200",
+        "order": "12;"
+      },
+      {
+        "distinctId": 194,
+        "name": "大兴安岭",
+        "code": "232700",
+        "order": "13;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:55.400+0000",
+    "updatedAt": "2024-10-17T14:26:55.400+0000"
+  },
+  {
+    "distinctId": 11,
+    "name": "江苏",
+    "code": "320000",
+    "order": "11;",
+    "cityList": [
+      {
+        "distinctId": 195,
+        "name": "南京",
+        "code": "320100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 196,
+        "name": "无锡",
+        "code": "320200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 197,
+        "name": "徐州",
+        "code": "320300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 198,
+        "name": "常州",
+        "code": "320400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 199,
+        "name": "苏州",
+        "code": "320500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 200,
+        "name": "南通",
+        "code": "320600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 201,
+        "name": "连云港",
+        "code": "320700",
+        "order": "7;"
+      },
+      {
+        "distinctId": 202,
+        "name": "淮安",
+        "code": "320800",
+        "order": "8;"
+      },
+      {
+        "distinctId": 203,
+        "name": "盐城",
+        "code": "320900",
+        "order": "9;"
+      },
+      {
+        "distinctId": 204,
+        "name": "扬州",
+        "code": "321000",
+        "order": "10;"
+      },
+      {
+        "distinctId": 205,
+        "name": "镇江",
+        "code": "321100",
+        "order": "11;"
+      },
+      {
+        "distinctId": 206,
+        "name": "泰州",
+        "code": "321200",
+        "order": "12;"
+      },
+      {
+        "distinctId": 207,
+        "name": "宿迁",
+        "code": "321300",
+        "order": "13;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:55.584+0000",
+    "updatedAt": "2024-10-17T14:26:55.584+0000"
+  },
+  {
+    "distinctId": 12,
+    "name": "浙江",
+    "code": "330000",
+    "order": "12;",
+    "cityList": [
+      {
+        "distinctId": 208,
+        "name": "杭州",
+        "code": "330100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 209,
+        "name": "宁波",
+        "code": "330200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 210,
+        "name": "温州",
+        "code": "330300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 211,
+        "name": "嘉兴",
+        "code": "330400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 212,
+        "name": "湖州",
+        "code": "330500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 213,
+        "name": "绍兴",
+        "code": "330600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 214,
+        "name": "金华",
+        "code": "330700",
+        "order": "7;"
+      },
+      {
+        "distinctId": 215,
+        "name": "衢州",
+        "code": "330800",
+        "order": "8;"
+      },
+      {
+        "distinctId": 216,
+        "name": "舟山",
+        "code": "330900",
+        "order": "9;"
+      },
+      {
+        "distinctId": 217,
+        "name": "台州",
+        "code": "331000",
+        "order": "10;"
+      },
+      {
+        "distinctId": 218,
+        "name": "丽水",
+        "code": "331100",
+        "order": "11;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:55.760+0000",
+    "updatedAt": "2024-10-17T14:26:55.760+0000"
+  },
+  {
+    "distinctId": 13,
+    "name": "安徽",
+    "code": "340000",
+    "order": "13;",
+    "cityList": [
+      {
+        "distinctId": 219,
+        "name": "合肥",
+        "code": "340100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 220,
+        "name": "芜湖",
+        "code": "340200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 221,
+        "name": "蚌埠",
+        "code": "340300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 222,
+        "name": "淮南",
+        "code": "340400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 223,
+        "name": "马鞍山",
+        "code": "340500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 224,
+        "name": "淮北",
+        "code": "340600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 225,
+        "name": "铜陵",
+        "code": "340700",
+        "order": "7;"
+      },
+      {
+        "distinctId": 226,
+        "name": "安庆",
+        "code": "340800",
+        "order": "8;"
+      },
+      {
+        "distinctId": 227,
+        "name": "黄山",
+        "code": "341000",
+        "order": "9;"
+      },
+      {
+        "distinctId": 228,
+        "name": "滁州",
+        "code": "341100",
+        "order": "10;"
+      },
+      {
+        "distinctId": 229,
+        "name": "阜阳",
+        "code": "341200",
+        "order": "11;"
+      },
+      {
+        "distinctId": 230,
+        "name": "宿州",
+        "code": "341300",
+        "order": "12;"
+      },
+      {
+        "distinctId": 231,
+        "name": "六安",
+        "code": "341500",
+        "order": "13;"
+      },
+      {
+        "distinctId": 232,
+        "name": "亳州",
+        "code": "341600",
+        "order": "14;"
+      },
+      {
+        "distinctId": 233,
+        "name": "池州",
+        "code": "341700",
+        "order": "15;"
+      },
+      {
+        "distinctId": 234,
+        "name": "宣城",
+        "code": "341800",
+        "order": "16;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:55.927+0000",
+    "updatedAt": "2024-10-17T14:26:55.927+0000"
+  },
+  {
+    "distinctId": 14,
+    "name": "福建",
+    "code": "350000",
+    "order": "14;",
+    "cityList": [
+      {
+        "distinctId": 235,
+        "name": "福州",
+        "code": "350100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 236,
+        "name": "厦门",
+        "code": "350200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 237,
+        "name": "莆田",
+        "code": "350300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 238,
+        "name": "三明",
+        "code": "350400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 239,
+        "name": "泉州",
+        "code": "350500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 240,
+        "name": "漳州",
+        "code": "350600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 241,
+        "name": "南平",
+        "code": "350700",
+        "order": "7;"
+      },
+      {
+        "distinctId": 242,
+        "name": "龙岩",
+        "code": "350800",
+        "order": "8;"
+      },
+      {
+        "distinctId": 243,
+        "name": "宁德",
+        "code": "350900",
+        "order": "9;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:56.087+0000",
+    "updatedAt": "2024-10-17T14:26:56.087+0000"
+  },
+  {
+    "distinctId": 15,
+    "name": "江西",
+    "code": "360000",
+    "order": "15;",
+    "cityList": [
+      {
+        "distinctId": 244,
+        "name": "南昌",
+        "code": "360100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 245,
+        "name": "景德镇",
+        "code": "360200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 246,
+        "name": "萍乡",
+        "code": "360300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 247,
+        "name": "九江",
+        "code": "360400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 248,
+        "name": "新余",
+        "code": "360500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 249,
+        "name": "鹰潭",
+        "code": "360600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 250,
+        "name": "赣州",
+        "code": "360700",
+        "order": "7;"
+      },
+      {
+        "distinctId": 251,
+        "name": "吉安",
+        "code": "360800",
+        "order": "8;"
+      },
+      {
+        "distinctId": 252,
+        "name": "宜春",
+        "code": "360900",
+        "order": "9;"
+      },
+      {
+        "distinctId": 253,
+        "name": "抚州",
+        "code": "361000",
+        "order": "10;"
+      },
+      {
+        "distinctId": 254,
+        "name": "上饶",
+        "code": "361100",
+        "order": "11;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:56.254+0000",
+    "updatedAt": "2024-10-17T14:26:56.254+0000"
+  },
+  {
+    "distinctId": 16,
+    "name": "山东",
+    "code": "370000",
+    "order": "16;",
+    "cityList": [
+      {
+        "distinctId": 255,
+        "name": "济南",
+        "code": "370100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 256,
+        "name": "青岛",
+        "code": "370200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 257,
+        "name": "淄博",
+        "code": "370300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 258,
+        "name": "枣庄",
+        "code": "370400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 259,
+        "name": "东营",
+        "code": "370500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 260,
+        "name": "烟台",
+        "code": "370600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 261,
+        "name": "潍坊",
+        "code": "370700",
+        "order": "7;"
+      },
+      {
+        "distinctId": 262,
+        "name": "济宁",
+        "code": "370800",
+        "order": "8;"
+      },
+      {
+        "distinctId": 263,
+        "name": "泰安",
+        "code": "370900",
+        "order": "9;"
+      },
+      {
+        "distinctId": 264,
+        "name": "威海",
+        "code": "371000",
+        "order": "10;"
+      },
+      {
+        "distinctId": 265,
+        "name": "日照",
+        "code": "371100",
+        "order": "11;"
+      },
+      {
+        "distinctId": 267,
+        "name": "临沂",
+        "code": "371300",
+        "order": "13;"
+      },
+      {
+        "distinctId": 268,
+        "name": "德州",
+        "code": "371400",
+        "order": "14;"
+      },
+      {
+        "distinctId": 269,
+        "name": "聊城",
+        "code": "371500",
+        "order": "15;"
+      },
+      {
+        "distinctId": 270,
+        "name": "滨州",
+        "code": "371600",
+        "order": "16;"
+      },
+      {
+        "distinctId": 271,
+        "name": "菏泽",
+        "code": "371700",
+        "order": "17;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:56.450+0000",
+    "updatedAt": "2024-10-17T14:26:56.450+0000"
+  },
+  {
+    "distinctId": 17,
+    "name": "河南",
+    "code": "410000",
+    "order": "17;",
+    "cityList": [
+      {
+        "distinctId": 272,
+        "name": "郑州",
+        "code": "410100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 273,
+        "name": "开封",
+        "code": "410200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 274,
+        "name": "洛阳",
+        "code": "410300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 275,
+        "name": "平顶山",
+        "code": "410400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 276,
+        "name": "安阳",
+        "code": "410500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 277,
+        "name": "鹤壁",
+        "code": "410600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 278,
+        "name": "新乡",
+        "code": "410700",
+        "order": "7;"
+      },
+      {
+        "distinctId": 279,
+        "name": "焦作",
+        "code": "410800",
+        "order": "8;"
+      },
+      {
+        "distinctId": 280,
+        "name": "濮阳",
+        "code": "410900",
+        "order": "9;"
+      },
+      {
+        "distinctId": 281,
+        "name": "许昌",
+        "code": "411000",
+        "order": "10;"
+      },
+      {
+        "distinctId": 282,
+        "name": "漯河",
+        "code": "411100",
+        "order": "11;"
+      },
+      {
+        "distinctId": 283,
+        "name": "三门峡",
+        "code": "411200",
+        "order": "12;"
+      },
+      {
+        "distinctId": 284,
+        "name": "南阳",
+        "code": "411300",
+        "order": "13;"
+      },
+      {
+        "distinctId": 285,
+        "name": "商丘",
+        "code": "411400",
+        "order": "14;"
+      },
+      {
+        "distinctId": 286,
+        "name": "信阳",
+        "code": "411500",
+        "order": "15;"
+      },
+      {
+        "distinctId": 287,
+        "name": "周口",
+        "code": "411600",
+        "order": "16;"
+      },
+      {
+        "distinctId": 288,
+        "name": "驻马店",
+        "code": "411700",
+        "order": "17;"
+      },
+      {
+        "distinctId": 289,
+        "name": "济源",
+        "code": "419001",
+        "order": "18;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:56.631+0000",
+    "updatedAt": "2024-10-17T14:26:56.631+0000"
+  },
+  {
+    "distinctId": 18,
+    "name": "湖北",
+    "code": "420000",
+    "order": "18;",
+    "cityList": [
+      {
+        "distinctId": 290,
+        "name": "武汉",
+        "code": "420100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 291,
+        "name": "黄石",
+        "code": "420200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 292,
+        "name": "十堰",
+        "code": "420300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 293,
+        "name": "宜昌",
+        "code": "420500",
+        "order": "4;"
+      },
+      {
+        "distinctId": 294,
+        "name": "襄阳",
+        "code": "420600",
+        "order": "5;"
+      },
+      {
+        "distinctId": 295,
+        "name": "鄂州",
+        "code": "420700",
+        "order": "6;"
+      },
+      {
+        "distinctId": 296,
+        "name": "荆门",
+        "code": "420800",
+        "order": "7;"
+      },
+      {
+        "distinctId": 297,
+        "name": "孝感",
+        "code": "420900",
+        "order": "8;"
+      },
+      {
+        "distinctId": 298,
+        "name": "荆州",
+        "code": "421000",
+        "order": "9;"
+      },
+      {
+        "distinctId": 299,
+        "name": "黄冈",
+        "code": "421100",
+        "order": "10;"
+      },
+      {
+        "distinctId": 300,
+        "name": "咸宁",
+        "code": "421200",
+        "order": "11;"
+      },
+      {
+        "distinctId": 301,
+        "name": "随州",
+        "code": "421300",
+        "order": "12;"
+      },
+      {
+        "distinctId": 302,
+        "name": "恩施",
+        "code": "422800",
+        "order": "13;"
+      },
+      {
+        "distinctId": 303,
+        "name": "仙桃",
+        "code": "429004",
+        "order": "14;"
+      },
+      {
+        "distinctId": 304,
+        "name": "潜江",
+        "code": "429005",
+        "order": "15;"
+      },
+      {
+        "distinctId": 305,
+        "name": "天门",
+        "code": "429006",
+        "order": "16;"
+      },
+      {
+        "distinctId": 306,
+        "name": "神农架林区",
+        "code": "429021",
+        "order": "17;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:56.811+0000",
+    "updatedAt": "2024-10-17T14:26:56.811+0000"
+  },
+  {
+    "distinctId": 19,
+    "name": "湖南",
+    "code": "430000",
+    "order": "19;",
+    "cityList": [
+      {
+        "distinctId": 307,
+        "name": "长沙",
+        "code": "430100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 308,
+        "name": "株洲",
+        "code": "430200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 309,
+        "name": "湘潭",
+        "code": "430300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 310,
+        "name": "衡阳",
+        "code": "430400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 311,
+        "name": "邵阳",
+        "code": "430500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 312,
+        "name": "岳阳",
+        "code": "430600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 313,
+        "name": "常德",
+        "code": "430700",
+        "order": "7;"
+      },
+      {
+        "distinctId": 314,
+        "name": "张家界",
+        "code": "430800",
+        "order": "8;"
+      },
+      {
+        "distinctId": 315,
+        "name": "益阳",
+        "code": "430900",
+        "order": "9;"
+      },
+      {
+        "distinctId": 316,
+        "name": "郴州",
+        "code": "431000",
+        "order": "10;"
+      },
+      {
+        "distinctId": 317,
+        "name": "永州",
+        "code": "431100",
+        "order": "11;"
+      },
+      {
+        "distinctId": 318,
+        "name": "怀化",
+        "code": "431200",
+        "order": "12;"
+      },
+      {
+        "distinctId": 319,
+        "name": "娄底",
+        "code": "431300",
+        "order": "13;"
+      },
+      {
+        "distinctId": 320,
+        "name": "湘西",
+        "code": "433100",
+        "order": "14;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:57.004+0000",
+    "updatedAt": "2024-10-17T14:26:57.004+0000"
+  },
+  {
+    "distinctId": 20,
+    "name": "广东",
+    "code": "440000",
+    "order": "20;",
+    "cityList": [
+      {
+        "distinctId": 321,
+        "name": "广州",
+        "code": "440100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 322,
+        "name": "韶关",
+        "code": "440200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 323,
+        "name": "深圳",
+        "code": "440300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 324,
+        "name": "珠海",
+        "code": "440400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 325,
+        "name": "汕头",
+        "code": "440500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 326,
+        "name": "佛山",
+        "code": "440600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 327,
+        "name": "江门",
+        "code": "440700",
+        "order": "7;"
+      },
+      {
+        "distinctId": 328,
+        "name": "湛江",
+        "code": "440800",
+        "order": "8;"
+      },
+      {
+        "distinctId": 329,
+        "name": "茂名",
+        "code": "440900",
+        "order": "9;"
+      },
+      {
+        "distinctId": 330,
+        "name": "肇庆",
+        "code": "441200",
+        "order": "10;"
+      },
+      {
+        "distinctId": 331,
+        "name": "惠州",
+        "code": "441300",
+        "order": "11;"
+      },
+      {
+        "distinctId": 332,
+        "name": "梅州",
+        "code": "441400",
+        "order": "12;"
+      },
+      {
+        "distinctId": 333,
+        "name": "汕尾",
+        "code": "441500",
+        "order": "13;"
+      },
+      {
+        "distinctId": 334,
+        "name": "河源",
+        "code": "441600",
+        "order": "14;"
+      },
+      {
+        "distinctId": 335,
+        "name": "阳江",
+        "code": "441700",
+        "order": "15;"
+      },
+      {
+        "distinctId": 336,
+        "name": "清远",
+        "code": "441800",
+        "order": "16;"
+      },
+      {
+        "distinctId": 337,
+        "name": "东莞",
+        "code": "441900",
+        "order": "17;"
+      },
+      {
+        "distinctId": 338,
+        "name": "中山",
+        "code": "442000",
+        "order": "18;"
+      },
+      {
+        "distinctId": 339,
+        "name": "潮州",
+        "code": "445100",
+        "order": "19;"
+      },
+      {
+        "distinctId": 340,
+        "name": "揭阳",
+        "code": "445200",
+        "order": "20;"
+      },
+      {
+        "distinctId": 341,
+        "name": "云浮",
+        "code": "445300",
+        "order": "21;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:57.186+0000",
+    "updatedAt": "2024-10-17T14:26:57.186+0000"
+  },
+  {
+    "distinctId": 21,
+    "name": "广西",
+    "code": "450000",
+    "order": "21;",
+    "cityList": [
+      {
+        "distinctId": 342,
+        "name": "南宁",
+        "code": "450100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 343,
+        "name": "柳州",
+        "code": "450200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 344,
+        "name": "桂林",
+        "code": "450300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 345,
+        "name": "梧州",
+        "code": "450400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 346,
+        "name": "北海",
+        "code": "450500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 347,
+        "name": "防城港",
+        "code": "450600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 348,
+        "name": "钦州",
+        "code": "450700",
+        "order": "7;"
+      },
+      {
+        "distinctId": 349,
+        "name": "贵港",
+        "code": "450800",
+        "order": "8;"
+      },
+      {
+        "distinctId": 350,
+        "name": "玉林",
+        "code": "450900",
+        "order": "9;"
+      },
+      {
+        "distinctId": 351,
+        "name": "百色",
+        "code": "451000",
+        "order": "10;"
+      },
+      {
+        "distinctId": 352,
+        "name": "贺州",
+        "code": "451100",
+        "order": "11;"
+      },
+      {
+        "distinctId": 353,
+        "name": "河池",
+        "code": "451200",
+        "order": "12;"
+      },
+      {
+        "distinctId": 354,
+        "name": "来宾",
+        "code": "451300",
+        "order": "13;"
+      },
+      {
+        "distinctId": 355,
+        "name": "崇左",
+        "code": "451400",
+        "order": "14;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:57.374+0000",
+    "updatedAt": "2024-10-17T14:26:57.374+0000"
+  },
+  {
+    "distinctId": 22,
+    "name": "海南",
+    "code": "460000",
+    "order": "22;",
+    "cityList": [
+      {
+        "distinctId": 356,
+        "name": "海口",
+        "code": "460100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 357,
+        "name": "三亚",
+        "code": "460200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 358,
+        "name": "三沙",
+        "code": "460300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 359,
+        "name": "五指山",
+        "code": "469001",
+        "order": "5;"
+      },
+      {
+        "distinctId": 360,
+        "name": "琼海",
+        "code": "469002",
+        "order": "6;"
+      },
+      {
+        "distinctId": 361,
+        "name": "儋州",
+        "code": "460400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 362,
+        "name": "文昌",
+        "code": "469005",
+        "order": "7;"
+      },
+      {
+        "distinctId": 363,
+        "name": "万宁",
+        "code": "469006",
+        "order": "8;"
+      },
+      {
+        "distinctId": 364,
+        "name": "东方",
+        "code": "469007",
+        "order": "9;"
+      },
+      {
+        "distinctId": 365,
+        "name": "定安",
+        "code": "469021",
+        "order": "10;"
+      },
+      {
+        "distinctId": 366,
+        "name": "屯昌",
+        "code": "469022",
+        "order": "11;"
+      },
+      {
+        "distinctId": 367,
+        "name": "澄迈",
+        "code": "469023",
+        "order": "12;"
+      },
+      {
+        "distinctId": 368,
+        "name": "临高",
+        "code": "469024",
+        "order": "13;"
+      },
+      {
+        "distinctId": 369,
+        "name": "白沙",
+        "code": "469025",
+        "order": "14;"
+      },
+      {
+        "distinctId": 370,
+        "name": "昌江",
+        "code": "469026",
+        "order": "15;"
+      },
+      {
+        "distinctId": 371,
+        "name": "乐东",
+        "code": "469027",
+        "order": "16;"
+      },
+      {
+        "distinctId": 372,
+        "name": "陵水",
+        "code": "469028",
+        "order": "17;"
+      },
+      {
+        "distinctId": 373,
+        "name": "保亭",
+        "code": "469029",
+        "order": "18;"
+      },
+      {
+        "distinctId": 374,
+        "name": "琼中",
+        "code": "469030",
+        "order": "19;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:57.570+0000",
+    "updatedAt": "2024-10-17T14:26:57.570+0000"
+  },
+  {
+    "distinctId": 23,
+    "name": "四川",
+    "code": "510000",
+    "order": "23;",
+    "cityList": [
+      {
+        "distinctId": 389,
+        "name": "达州",
+        "code": "511700",
+        "order": "15;"
+      },
+      {
+        "distinctId": 390,
+        "name": "雅安",
+        "code": "511800",
+        "order": "16;"
+      },
+      {
+        "distinctId": 391,
+        "name": "巴中",
+        "code": "511900",
+        "order": "17;"
+      },
+      {
+        "distinctId": 392,
+        "name": "资阳",
+        "code": "512000",
+        "order": "18;"
+      },
+      {
+        "distinctId": 393,
+        "name": "阿坝",
+        "code": "513200",
+        "order": "19;"
+      },
+      {
+        "distinctId": 394,
+        "name": "甘孜",
+        "code": "513300",
+        "order": "20;"
+      },
+      {
+        "distinctId": 395,
+        "name": "凉山",
+        "code": "615000",
+        "order": "21;"
+      },
+      {
+        "distinctId": 375,
+        "name": "成都",
+        "code": "510100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 376,
+        "name": "自贡",
+        "code": "510300",
+        "order": "2;"
+      },
+      {
+        "distinctId": 377,
+        "name": "攀枝花",
+        "code": "510400",
+        "order": "3;"
+      },
+      {
+        "distinctId": 378,
+        "name": "泸州",
+        "code": "510500",
+        "order": "4;"
+      },
+      {
+        "distinctId": 379,
+        "name": "德阳",
+        "code": "510600",
+        "order": "5;"
+      },
+      {
+        "distinctId": 380,
+        "name": "绵阳",
+        "code": "510700",
+        "order": "6;"
+      },
+      {
+        "distinctId": 381,
+        "name": "广元",
+        "code": "510800",
+        "order": "7;"
+      },
+      {
+        "distinctId": 382,
+        "name": "遂宁",
+        "code": "510900",
+        "order": "8;"
+      },
+      {
+        "distinctId": 383,
+        "name": "内江",
+        "code": "511000",
+        "order": "9;"
+      },
+      {
+        "distinctId": 384,
+        "name": "乐山",
+        "code": "511100",
+        "order": "10;"
+      },
+      {
+        "distinctId": 385,
+        "name": "南充",
+        "code": "511300",
+        "order": "11;"
+      },
+      {
+        "distinctId": 386,
+        "name": "眉山",
+        "code": "511400",
+        "order": "12;"
+      },
+      {
+        "distinctId": 387,
+        "name": "宜宾",
+        "code": "511500",
+        "order": "13;"
+      },
+      {
+        "distinctId": 388,
+        "name": "广安",
+        "code": "511600",
+        "order": "14;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:57.763+0000",
+    "updatedAt": "2024-10-17T14:26:57.763+0000"
+  },
+  {
+    "distinctId": 24,
+    "name": "贵州",
+    "code": "520000",
+    "order": "24;",
+    "cityList": [
+      {
+        "distinctId": 396,
+        "name": "贵阳",
+        "code": "520100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 397,
+        "name": "六盘水",
+        "code": "520200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 398,
+        "name": "遵义",
+        "code": "520300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 399,
+        "name": "安顺",
+        "code": "520400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 400,
+        "name": "毕节",
+        "code": "520500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 401,
+        "name": "铜仁",
+        "code": "520600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 402,
+        "name": "黔西南",
+        "code": "522300",
+        "order": "7;"
+      },
+      {
+        "distinctId": 403,
+        "name": "黔东南",
+        "code": "522600",
+        "order": "8;"
+      },
+      {
+        "distinctId": 404,
+        "name": "黔南",
+        "code": "522700",
+        "order": "9;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:57.937+0000",
+    "updatedAt": "2024-10-17T14:26:57.937+0000"
+  },
+  {
+    "distinctId": 25,
+    "name": "云南",
+    "code": "530000",
+    "order": "25;",
+    "cityList": [
+      {
+        "distinctId": 405,
+        "name": "昆明",
+        "code": "530100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 406,
+        "name": "曲靖",
+        "code": "530300",
+        "order": "2;"
+      },
+      {
+        "distinctId": 407,
+        "name": "玉溪",
+        "code": "530400",
+        "order": "3;"
+      },
+      {
+        "distinctId": 408,
+        "name": "昭通",
+        "code": "530600",
+        "order": "4;"
+      },
+      {
+        "distinctId": 409,
+        "name": "丽江",
+        "code": "530700",
+        "order": "5;"
+      },
+      {
+        "distinctId": 410,
+        "name": "普洱",
+        "code": "530800",
+        "order": "6;"
+      },
+      {
+        "distinctId": 411,
+        "name": "临沧",
+        "code": "530900",
+        "order": "7;"
+      },
+      {
+        "distinctId": 412,
+        "name": "楚雄",
+        "code": "532300",
+        "order": "8;"
+      },
+      {
+        "distinctId": 413,
+        "name": "红河",
+        "code": "532500",
+        "order": "9;"
+      },
+      {
+        "distinctId": 414,
+        "name": "文山",
+        "code": "532600",
+        "order": "10;"
+      },
+      {
+        "distinctId": 415,
+        "name": "西双版纳",
+        "code": "532800",
+        "order": "11;"
+      },
+      {
+        "distinctId": 416,
+        "name": "大理",
+        "code": "532900",
+        "order": "12;"
+      },
+      {
+        "distinctId": 417,
+        "name": "德宏",
+        "code": "533100",
+        "order": "13;"
+      },
+      {
+        "distinctId": 418,
+        "name": "怒江",
+        "code": "533300",
+        "order": "14;"
+      },
+      {
+        "distinctId": 419,
+        "name": "迪庆",
+        "code": "533400",
+        "order": "15;"
+      },
+      {
+        "distinctId": 420,
+        "name": "保山",
+        "code": "678000",
+        "order": "16;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:58.103+0000",
+    "updatedAt": "2024-10-17T14:26:58.103+0000"
+  },
+  {
+    "distinctId": 26,
+    "name": "西藏",
+    "code": "540000",
+    "order": "26;",
+    "cityList": [
+      {
+        "distinctId": 421,
+        "name": "拉萨",
+        "code": "540100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 422,
+        "name": "昌都",
+        "code": "542100",
+        "order": "2;"
+      },
+      {
+        "distinctId": 423,
+        "name": "山南",
+        "code": "540500",
+        "order": "3;"
+      },
+      {
+        "distinctId": 424,
+        "name": "日喀则",
+        "code": "542300",
+        "order": "4;"
+      },
+      {
+        "distinctId": 425,
+        "name": "那曲",
+        "code": "540600",
+        "order": "5;"
+      },
+      {
+        "distinctId": 426,
+        "name": "阿里",
+        "code": "542500",
+        "order": "6;"
+      },
+      {
+        "distinctId": 427,
+        "name": "林芝",
+        "code": "540400",
+        "order": "7;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:58.266+0000",
+    "updatedAt": "2024-10-17T14:26:58.266+0000"
+  },
+  {
+    "distinctId": 27,
+    "name": "陕西",
+    "code": "610000",
+    "order": "27;",
+    "cityList": [
+      {
+        "distinctId": 428,
+        "name": "西安",
+        "code": "610100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 429,
+        "name": "铜川",
+        "code": "610200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 430,
+        "name": "宝鸡",
+        "code": "610300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 431,
+        "name": "咸阳",
+        "code": "610400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 432,
+        "name": "渭南",
+        "code": "610500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 433,
+        "name": "延安",
+        "code": "610600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 434,
+        "name": "汉中",
+        "code": "610700",
+        "order": "7;"
+      },
+      {
+        "distinctId": 435,
+        "name": "榆林",
+        "code": "610800",
+        "order": "8;"
+      },
+      {
+        "distinctId": 436,
+        "name": "安康",
+        "code": "610900",
+        "order": "9;"
+      },
+      {
+        "distinctId": 437,
+        "name": "商洛",
+        "code": "611000",
+        "order": "10;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:58.431+0000",
+    "updatedAt": "2024-10-17T14:26:58.431+0000"
+  },
+  {
+    "distinctId": 28,
+    "name": "甘肃",
+    "code": "620000",
+    "order": "28;",
+    "cityList": [
+      {
+        "distinctId": 438,
+        "name": "兰州",
+        "code": "620100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 439,
+        "name": "嘉峪关",
+        "code": "620200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 440,
+        "name": "金昌",
+        "code": "620300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 441,
+        "name": "白银",
+        "code": "620400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 442,
+        "name": "天水",
+        "code": "620500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 443,
+        "name": "武威",
+        "code": "620600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 444,
+        "name": "张掖",
+        "code": "620700",
+        "order": "7;"
+      },
+      {
+        "distinctId": 445,
+        "name": "平凉",
+        "code": "620800",
+        "order": "8;"
+      },
+      {
+        "distinctId": 446,
+        "name": "酒泉",
+        "code": "620900",
+        "order": "9;"
+      },
+      {
+        "distinctId": 447,
+        "name": "庆阳",
+        "code": "621000",
+        "order": "10;"
+      },
+      {
+        "distinctId": 448,
+        "name": "定西",
+        "code": "621100",
+        "order": "11;"
+      },
+      {
+        "distinctId": 449,
+        "name": "陇南",
+        "code": "621200",
+        "order": "12;"
+      },
+      {
+        "distinctId": 450,
+        "name": "临夏",
+        "code": "622900",
+        "order": "13;"
+      },
+      {
+        "distinctId": 451,
+        "name": "甘南",
+        "code": "623000",
+        "order": "14;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:58.606+0000",
+    "updatedAt": "2024-10-17T14:26:58.606+0000"
+  },
+  {
+    "distinctId": 29,
+    "name": "青海",
+    "code": "630000",
+    "order": "29;",
+    "cityList": [
+      {
+        "distinctId": 452,
+        "name": "西宁",
+        "code": "630100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 453,
+        "name": "海东",
+        "code": "632100",
+        "order": "2;"
+      },
+      {
+        "distinctId": 454,
+        "name": "海北",
+        "code": "632200",
+        "order": "3;"
+      },
+      {
+        "distinctId": 455,
+        "name": "黄南",
+        "code": "632300",
+        "order": "4;"
+      },
+      {
+        "distinctId": 456,
+        "name": "海南",
+        "code": "632500",
+        "order": "5;"
+      },
+      {
+        "distinctId": 457,
+        "name": "果洛",
+        "code": "632600",
+        "order": "6;"
+      },
+      {
+        "distinctId": 458,
+        "name": "玉树",
+        "code": "632700",
+        "order": "7;"
+      },
+      {
+        "distinctId": 459,
+        "name": "海西",
+        "code": "632800",
+        "order": "8;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:58.773+0000",
+    "updatedAt": "2024-10-17T14:26:58.773+0000"
+  },
+  {
+    "distinctId": 30,
+    "name": "宁夏",
+    "code": "640000",
+    "order": "30;",
+    "cityList": [
+      {
+        "distinctId": 460,
+        "name": "银川",
+        "code": "640100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 461,
+        "name": "石嘴山",
+        "code": "640200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 462,
+        "name": "吴忠",
+        "code": "640300",
+        "order": "3;"
+      },
+      {
+        "distinctId": 463,
+        "name": "固原",
+        "code": "640400",
+        "order": "4;"
+      },
+      {
+        "distinctId": 464,
+        "name": "中卫",
+        "code": "640500",
+        "order": "5;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:58.922+0000",
+    "updatedAt": "2024-10-17T14:26:58.922+0000"
+  },
+  {
+    "distinctId": 31,
+    "name": "新疆",
+    "code": "650000",
+    "order": "31;",
+    "cityList": [
+      {
+        "distinctId": 465,
+        "name": "乌鲁木齐",
+        "code": "650100",
+        "order": "1;"
+      },
+      {
+        "distinctId": 466,
+        "name": "克拉玛依",
+        "code": "650200",
+        "order": "2;"
+      },
+      {
+        "distinctId": 467,
+        "name": "吐鲁番",
+        "code": "652100",
+        "order": "3;"
+      },
+      {
+        "distinctId": 468,
+        "name": "哈密",
+        "code": "652200",
+        "order": "4;"
+      },
+      {
+        "distinctId": 469,
+        "name": "昌吉",
+        "code": "652300",
+        "order": "5;"
+      },
+      {
+        "distinctId": 470,
+        "name": "博尔塔拉",
+        "code": "652700",
+        "order": "6;"
+      },
+      {
+        "distinctId": 471,
+        "name": "巴音郭楞",
+        "code": "652800",
+        "order": "7;"
+      },
+      {
+        "distinctId": 472,
+        "name": "阿克苏",
+        "code": "652900",
+        "order": "8;"
+      },
+      {
+        "distinctId": 473,
+        "name": "克孜勒苏",
+        "code": "653000",
+        "order": "9;"
+      },
+      {
+        "distinctId": 474,
+        "name": "喀什",
+        "code": "653100",
+        "order": "10;"
+      },
+      {
+        "distinctId": 475,
+        "name": "和田",
+        "code": "653200",
+        "order": "11;"
+      },
+      {
+        "distinctId": 476,
+        "name": "伊犁",
+        "code": "654000",
+        "order": "12;"
+      },
+      {
+        "distinctId": 477,
+        "name": "塔城",
+        "code": "654200",
+        "order": "13;"
+      },
+      {
+        "distinctId": 478,
+        "name": "阿勒泰",
+        "code": "654300",
+        "order": "14;"
+      },
+      {
+        "distinctId": 479,
+        "name": "石河子",
+        "code": "659001",
+        "order": "15;"
+      },
+      {
+        "distinctId": 480,
+        "name": "阿拉尔",
+        "code": "659002",
+        "order": "16;"
+      },
+      {
+        "distinctId": 481,
+        "name": "图木舒克",
+        "code": "659003",
+        "order": "17;"
+      },
+      {
+        "distinctId": 482,
+        "name": "五家渠",
+        "code": "659004",
+        "order": "18;"
+      },
+      {
+        "distinctId": 483,
+        "name": "北屯",
+        "code": "659005",
+        "order": "19;"
+      },
+      {
+        "distinctId": 484,
+        "name": "铁门关",
+        "code": "659006",
+        "order": "20;"
+      },
+      {
+        "distinctId": 3577,
+        "name": "双河",
+        "code": "659007",
+        "order": "21;"
+      },
+      {
+        "distinctId": 3585,
+        "name": "可克达拉",
+        "code": "659008",
+        "order": "22;"
+      },
+      {
+        "distinctId": 7038,
+        "name": "昆玉",
+        "code": "659009",
+        "order": "23;"
+      },
+      {
+        "distinctId": 7044,
+        "name": "胡杨河",
+        "code": "659010",
+        "order": "24;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:59.102+0000",
+    "updatedAt": "2024-10-17T14:26:59.102+0000"
+  },
+  {
+    "distinctId": 32,
+    "name": "台湾",
+    "code": "710000",
+    "order": "32;",
+    "cityList": [
+      {
+        "distinctId": 485,
+        "name": "台北",
+        "code": "63",
+        "order": "1;"
+      },
+      {
+        "distinctId": 486,
+        "name": "高雄",
+        "code": "64",
+        "order": "2;"
+      },
+      {
+        "distinctId": 487,
+        "name": "基隆",
+        "code": "10017",
+        "order": "3;"
+      },
+      {
+        "distinctId": 488,
+        "name": "台中",
+        "code": "10019",
+        "order": "4;"
+      },
+      {
+        "distinctId": 489,
+        "name": "台南",
+        "code": "10021",
+        "order": "5;"
+      },
+      {
+        "distinctId": 490,
+        "name": "新竹",
+        "code": "10018",
+        "order": "6;"
+      },
+      {
+        "distinctId": 491,
+        "name": "嘉义",
+        "code": "10020",
+        "order": "7;"
+      },
+      {
+        "distinctId": 493,
+        "name": "宜兰",
+        "code": "10002",
+        "order": "9;"
+      },
+      {
+        "distinctId": 494,
+        "name": "桃园",
+        "code": "10003",
+        "order": "10;"
+      },
+      {
+        "distinctId": 495,
+        "name": "新竹",
+        "code": "10004",
+        "order": "11;"
+      },
+      {
+        "distinctId": 496,
+        "name": "苗栗",
+        "code": "10005",
+        "order": "12;"
+      },
+      {
+        "distinctId": 497,
+        "name": "彰化",
+        "code": "10007",
+        "order": "13;"
+      },
+      {
+        "distinctId": 498,
+        "name": "南投",
+        "code": "10008",
+        "order": "14;"
+      },
+      {
+        "distinctId": 499,
+        "name": "云林",
+        "code": "10009",
+        "order": "15;"
+      },
+      {
+        "distinctId": 500,
+        "name": "嘉义",
+        "code": "10020",
+        "order": "16;"
+      },
+      {
+        "distinctId": 501,
+        "name": "屏东",
+        "code": "10013",
+        "order": "17;"
+      },
+      {
+        "distinctId": 502,
+        "name": "台东",
+        "code": "10014",
+        "order": "18;"
+      },
+      {
+        "distinctId": 503,
+        "name": "花莲",
+        "code": "10015",
+        "order": "19;"
+      },
+      {
+        "distinctId": 504,
+        "name": "澎湖",
+        "code": "10016",
+        "order": "20;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:59.298+0000",
+    "updatedAt": "2024-10-17T14:26:59.298+0000"
+  },
+  {
+    "distinctId": 33,
+    "name": "香港",
+    "code": "810000",
+    "order": "33;",
+    "cityList": [
+      {
+        "distinctId": 33,
+        "name": "香港",
+        "code": "810000",
+        "order": "33;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:59.399+0000",
+    "updatedAt": "2024-10-17T14:26:59.399+0000"
+  },
+  {
+    "distinctId": 34,
+    "name": "澳门",
+    "code": "820000",
+    "order": "34;",
+    "cityList": [
+      {
+        "distinctId": 34,
+        "name": "澳门",
+        "code": "820000",
+        "order": "34;"
+      }
+    ],
+    "createdAt": "2024-10-17T14:26:59.468+0000",
+    "updatedAt": "2024-10-17T14:26:59.468+0000"
+  }
+]

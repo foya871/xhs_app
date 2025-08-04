@@ -1,0 +1,10 @@
+targets:
+  $default:
+    builders:
+      freezed:
+        options:
+          generate_for:
+            - lib/src/model/*.dart
+          exclude:
+            - lib/src/model/*.freezed.dart
+            - lib/src/model/*.g.dart
