@@ -2,6 +2,18 @@
 
 <img width="362" height="719" alt="image" src="https://github.com/user-attachments/assets/411d0498-49c7-435d-abc6-8617143069c4" />
 
+<img width="352" height="722" alt="image" src="https://github.com/user-attachments/assets/03170948-272a-42d1-b45e-dca1f65ea2be" />
+
+
+<img width="370" height="752" alt="image" src="https://github.com/user-attachments/assets/efd47b96-d7f9-4215-9e83-b7bf8c55b4ad" />
+<img width="350" height="706" alt="image" src="https://github.com/user-attachments/assets/f0b48335-dc73-4de1-8c42-891a8611a045" />
+<img width="371" height="713" alt="image" src="https://github.com/user-attachments/assets/2b76441e-dbbd-4864-8c3f-6bcbd63e0fc6" />
+
+<img width="363" height="739" alt="image" src="https://github.com/user-attachments/assets/9408b29a-7f4e-474b-95c6-1b2c63d47780" />
+
+<img width="363" height="748" alt="image" src="https://github.com/user-attachments/assets/34b8e009-482f-4ede-b588-103bae61ea25" />
+
+视频播放
 <!--
  * @Author: wangdazhuang
  * @Date: 2024-09-27 20:48:32
